@@ -1,8 +1,15 @@
-Olá meu nome é Igor e atualmente estou no 5 período de Sistema de informação. 
-Ainda não tenho experiência prática na área, mas estou muito motivado para aprender e crescer no mundo da tecnologia.
+ Olá, meu nome é Igor!
 
-Este repositório contém alguns projetos simples que estou estudando na faculdade e exercícios que fiz para praticar meus conhecimentos.
-Meu objetivo é evoluir cada vez mais e contribuir com uma equipe que me dê a oportunidade de colocar em prática o que aprendo.
+Atualmente estou no **5º período de Sistemas de Informação** e criei este repositório como um ambiente de aprendizado e prática intensiva.
 
-Obrigado por visitar meu repositório! 
-  
+---
+
+ 🎯 Objetivo Profissional (Foco Mobile)
+
+Reconheço que **não possuo experiência prática formal**, mas estou extremamente motivado a evoluir e aplicar os conhecimentos da faculdade em projetos reais.
+
+Meu maior interesse no momento é a área de **Desenvolvimento Android/Mobile**. Estou ativamente buscando a oportunidade de iniciar na área e evoluir rapidamente, aplicando os pilares da programação em um ambiente focado em Java/Kotlin (linguagens base para Android) e novas tecnologias.
+
+Este repositório serve para documentar meu crescimento em lógica e organização de código.
+
+Obrigado por visitar meu repositório!
